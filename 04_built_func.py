@@ -1,0 +1,8 @@
+def info(name="HEY",age=45):
+    print('Name :',name)
+    print('Age :',age)
+info()
+info('Py')
+info('ravi',25)
+info(name='gopal')
+info(age=26)
